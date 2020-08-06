@@ -1,1 +1,3 @@
-# Yen_Futures_Regression
+# Yen Futures Regression Analysis
+
+Used machine learning regression models to forecast Yen futures prices.
